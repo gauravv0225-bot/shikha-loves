@@ -3,7 +3,7 @@
 // Photo Gallery Variables
 let currentPhotoIndex = 0;
 const photos = [
-    { filename: 'IMG_20240524_175350.jpg', caption: 'Beautiful moment together' },
+    { filename: 'photos/IMG_20240524_175350.jpg', caption: 'Beautiful moment together' },
     { filename: 'IMG_20240524_175420.jpg', caption: 'Our special day' },
     { filename: 'IMG_20240719_115547.jpg', caption: 'Summer memories' },
     { filename: 'IMG_20240719_115832.jpg', caption: 'Happy times' },
